@@ -1,0 +1,30 @@
+
+Used this link https://www.raywenderlich.com/5456-in-app-purchase-tutorial-getting-started  to setup IAP on Appstore Connect.
+
+I amy have to delete and redo as Consumable as multiple emails will be needed.  Look into how to create email aliases etc.
+
+I am awaiting Apple's approval for Tax and Banking changes to update etc. can take 3+ days.
+
+
+4/27/2021: Trying to redo this process for IAP.  Deleted the app but it can be restored.  Need to consider a New App ID or New certificate
+This way I can make as consumable.  Can't seem to be able to edit the first attempt.
+
+4/28/2021:
+Finished the IAP tutorial setup in AppConnect etc.  Downloaded new version of GIMP as the APP will need some screen shots for metadata.
+
+Ready to begin the code part of the Tutuorial.  Remember I have a sandbox tester called John Appleseed with email joseph@pc-sg.com This will be needed to make IAP purchases.
+
+ALSO: NOTE I did my configuration for razefacrsjr as Consumable; however, the tutorial will be based on Non Consumable.
+
+
+5/3/2021: Remember will need to configure - Sign in with Apple for Email Communication - found under the More section of Certificates, Identifiers & Profiles.  This will allow users to sign in to my apps with their Apple ID needed for updates etc.
+
+
+I sent Apple Support an email requesting update of Tax and Banking etc and EIN - it generated a support ticket number saved in ikissable folder.
+
+Began Tutorial setting up the APP Take and added Capability for In App.  However, this is different from the tutorial where this feature can be turned on/off.
+
+Continue here: Listing In-App Purchases section of tutorial.
+
+
+
